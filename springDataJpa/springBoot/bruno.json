@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "springBoot",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}

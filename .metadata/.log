@@ -383,3 +383,51 @@ org.eclipse.jface.text.BadLocationException: 2182
 	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:115)
 	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:78)
 	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-22 18:27:51.191
+!MESSAGE Classpath changed for project: springDataJpa
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-22 18:27:52.118
+!MESSAGE Classpath changed for project: springDataJpa
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-22 18:27:52.119
+!MESSAGE Boot project ADDED: springDataJpa
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-22 18:30:22.646
+!MESSAGE Classpath changed for project: springDataJpa
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-22 18:30:22.665
+!MESSAGE Classpath changed for project: springDataJpa
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-22 18:30:24.071
+!MESSAGE Classpath changed for project: springDataJpa
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-22 18:31:15.245
+!MESSAGE Classpath changed for project: springDataJpa
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-22 18:31:15.269
+!MESSAGE Classpath changed for project: springDataJpa
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-22 18:31:18.337
+!MESSAGE Classpath changed for project: springDataJpa
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-22 18:31:25.056
+!MESSAGE Classpath changed for project: springDataJpa
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-22 18:31:25.187
+!MESSAGE Classpath changed for project: springDataJpa
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-22 18:31:26.125
+!MESSAGE Classpath changed for project: springDataJpa
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-22 18:32:06.629
+!MESSAGE Classpath changed for project: springDataJpa
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-22 18:32:06.644
+!MESSAGE Classpath changed for project: springDataJpa
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-22 18:32:07.977
+!MESSAGE Classpath changed for project: springDataJpa
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-22 18:34:33.003
+!MESSAGE Classpath changed for project: springDataJpa
