@@ -1,0 +1,14 @@
+package gusain.abhishek.demo.model;
+
+import org.springframework.stereotype.Component;
+
+
+@Component
+public class Product {
+	
+	private Integer productId;
+	private String productName;
+	private Integer productPrice;
+	
+}
+ 

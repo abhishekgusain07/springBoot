@@ -1,0 +1,19 @@
+meta {
+  name: patch
+  type: http
+  seq: 6
+}
+
+patch {
+  url: http://localhost:8080/updateProduct
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+      "productId": 1002,
+      "productName": "BMW M3 Comp",
+      "productPrice": 1700000
+    }
+}

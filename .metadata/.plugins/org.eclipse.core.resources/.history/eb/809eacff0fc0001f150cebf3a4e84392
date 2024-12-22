@@ -1,0 +1,7 @@
+package gusain.abhishek.demo;
+
+public class Car {
+	private Integer carId;
+	private String carName;
+	
+}

@@ -1,0 +1,13 @@
+package gusain.abhishek.demo;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class Controller {
+	
+	@RequestMapping("/")
+	public String greetings() {
+		return "Hello from springBoot backend";
+	}
+}
